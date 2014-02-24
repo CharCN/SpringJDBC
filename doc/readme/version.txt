@@ -1,0 +1,5 @@
+version:1.0.1
+调用:java -jar xxx.jar
+
+version:1.0.3
+java -classpath AutoUpdate1.0.3.jar com.pingan.jrkj.datacenter.dataupdate.handle.RefDataItemReadinessHandle 100
